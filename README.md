@@ -99,6 +99,7 @@ Screenshot tools for manual use.
 - [Fireshot](https://getfireshot.com) - Full page screenshots with annotation.
 - [Nimbus Screenshot](https://nimbusweb.me) - Screenshot and screencast tool.
 - [Awesome Screenshot](https://www.awesomescreenshot.com) - Screenshot and annotation extension.
+- [Scrollout](https://scrollout.farflash.com/) - Free, open-source Chrome full-page screenshots with local annotation, crop, redaction, and export.
 
 ## CLI Tools
 

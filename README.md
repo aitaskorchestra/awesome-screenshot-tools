@@ -24,6 +24,7 @@ Cloud-hosted APIs for capturing website screenshots programmatically.
 | Service | Free Tier | Pricing | Features |
 |---------|-----------|---------|----------|
 | [GrabShot](https://grabshot.dev) | 25/mo | From $9/mo | Full page, device frames, AI cleanup, OG images, multiple formats |
+| [CurlShot](https://curlshot.com) | 100/mo | From $19/mo | Full page, PDF, video (MP4/WebM/GIF), HTML/Markdown input, 69 options, MCP server |
 | [ScreenshotOne](https://screenshotone.com) | 100/mo | From $39/mo | Full page, animations, ad blocking |
 | [URLBox](https://urlbox.io) | 7-day trial | From $39/mo | Retina, full page, PDF, custom CSS |
 | [Screenshotlayer](https://screenshotlayer.com) | 100/mo | From $9.99/mo | Viewport config, full page, thumbnail |

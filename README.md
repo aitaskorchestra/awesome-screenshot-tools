@@ -119,6 +119,7 @@ Full platforms for website monitoring and archiving with screenshot features.
 - [Hexowatch](https://hexowatch.com) - AI-powered website monitoring.
 - [Stillio](https://stillio.com) - Automated website screenshot archiving.
 - [Archive.org Wayback Machine](https://web.archive.org) - Historical snapshots of the entire web.
+- [AppScreen](https://appscreen.pro) - Free in-browser App Store and Google Play screenshot maker with device frames, headlines and panoramic layouts, exported at store sizes.
 
 ## Tutorials & Articles
 
